@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @js-j
-- 👀 I’m interested in lisp, scheme, forth, tcl, awk, perl, c, c++, assembler, smalltalk, java, javascript, 3d graphics, systems and network administration, databases, operating systems, graphic design, and more.
+- 👀 I’m interested in lisp, scheme, forth, tcl, awk, perl, c, c++, assembler, smalltalk, java, javascript, 3d graphics, systems and network administration, databases, operating systems, zeromq, graphic design, and more.
 - 🌱 I’m currently learning graphic design.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
